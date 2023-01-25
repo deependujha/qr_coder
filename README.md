@@ -8,10 +8,11 @@
 
 ## Steps 🖥️
 
-- Install the library:
+- Install the library and its type:
 
 ```sh
 npm install qrcode
+npm i --save-dev @types/qrcode
 ```
 
 - Import the library in your React component:
